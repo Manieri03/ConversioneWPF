@@ -66,7 +66,7 @@ namespace ConversioneWPF
                         }
                         else if (Valorestring[i] != '0')
                         {
-                            throw new Exception("Non è un numero valido");
+                            throw new Exception("Non è un numero valido ");
                         }
                         exp++;
                     }
